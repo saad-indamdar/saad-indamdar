@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saad-indamdar
 - 👀 I’m interested in Website Development, Php Development, Wordpress Development
-- 🌱 I’m currently learning Laravel, Node Js
+- 🌱 I’m currently learning Laravel, Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me inamdarsahad@gmail.com
 
